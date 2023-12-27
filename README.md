@@ -20,9 +20,7 @@ The game ends when the snake hits the edge of the board or its own body.
 
 Technologies:
 
-JavaScript
-HTML
-CSS
+JavaScript, HTML, CSS
 
 
 
