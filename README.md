@@ -1,31 +1,30 @@
-# Snake Game
+Snake Game
+A Snake game written in JavaScript.
 
-Prosta gra Snake napisana w JavaScript.
+How to Run the Game:
 
-## Jak uruchomić grę
+Download project files from this repository.
+Open the index.html file in a web browser.
 
-1. Pobierz pliki projektu z tego repozytorium.
-2. Otwórz plik `index.html` w przeglądarce internetowej.
+Game Rules:
 
-## Zasady gry
+Control the snake using the arrow keys on the keyboard.
+Collect food to increase the length of the snake.
+Avoid collisions with the edges of the board and the snake's own tail.
 
-- Sterowanie wężem za pomocą strzałek na klawiaturze.
-- Zdobądź jedzenie, aby zwiększyć długość węża.
-- Unikaj zderzeń z krawędziami planszy i własnym ogonem.
+Game Instructions:
 
-## Instrukcje gry
+After launching the game, press the "Start" button.
+Use the arrow keys on the keyboard to control the snake.
+The game ends when the snake hits the edge of the board or its own body.
 
-Po uruchomieniu gry naciśnij przycisk "Start", a następnie używaj strzałek na klawiaturze do sterowania wężem. Gra się kończy, gdy wąż uderzy w krawędź planszy lub w swoje ciało.
+Technologies:
 
-## Technologie
+JavaScript
+HTML
+CSS
 
-- JavaScript
-- HTML
-- CSS
 
-## Autor
-
-Twórcą tej gry jest Ilona Cach.
 
 
 
