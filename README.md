@@ -5,7 +5,7 @@ How to Run the Game:
 Download project files from this repository.
 Open the index.html file in a web browser.
 
-![Alt Text](sBEuN.jpg)
+![Alt Text](Snake_OG-logo.jpg)
 
 
 Game Rules:
