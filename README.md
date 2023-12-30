@@ -5,6 +5,8 @@ How to Run the Game:
 Download project files from this repository.
 Open the index.html file in a web browser.
 
+C:\Users\ilonk\Downloads\download.png
+
 Game Rules:
 
 Control the snake using the arrow keys on the keyboard.
