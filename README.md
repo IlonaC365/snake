@@ -5,7 +5,7 @@ How to Run the Game:
 Download project files from this repository.
 Open the index.html file in a web browser.
 
-![Alt Text](Downloads\download.png)
+![Alt Text](download.png)
 
 Game Rules:
 
