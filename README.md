@@ -1,5 +1,4 @@
 Snake Game
-A Snake game written in JavaScript.
 
 How to Run the Game:
 
@@ -20,7 +19,9 @@ The game ends when the snake hits the edge of the board or its own body.
 
 Technologies:
 
-JavaScript, HTML, CSS
+JavaScript [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+HTML   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+CSS  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 
