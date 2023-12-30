@@ -5,9 +5,6 @@ How to Run the Game:
 Download project files from this repository.
 Open the index.html file in a web browser.
 
-![Alt Text](Snake_OG-logo.jpg)
-
-
 Game Rules:
 
 Control the snake using the arrow keys on the keyboard.
