@@ -20,6 +20,8 @@ After launching the game, press the "Start" button.
 Use the arrow keys on the keyboard to control the snake.
 The game ends when the snake hits the edge of the board or its own body.
 
+![Alt Text](original.png)
+
 Technologies:
 
 JavaScript [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
