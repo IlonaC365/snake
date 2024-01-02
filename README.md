@@ -1,7 +1,8 @@
-Snake Game
+The Snake Game
 
+Overview:
 
-The snake game: a snake that grows each time it “eats” a randomly placed food. 
+A snake that grows each time it “eats” a randomly placed food. 
 The score increases by 1 every time it eats, and the game ends when the snake’s head crashes into its tail or the walls.
 
 Game Rules:
