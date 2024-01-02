@@ -1,9 +1,8 @@
 Snake Game
 
-How to Run the Game:
 
-Download project files from this repository.
-Open the index.html file in a web browser.
+The snake game: a snake that grows each time it “eats” a randomly placed food. 
+The score increases by 1 every time it eats, and the game ends when the snake’s head crashes into its tail or the walls.
 
 Game Rules:
 
@@ -18,6 +17,11 @@ Use the arrow keys on the keyboard to control the snake.
 The game ends when the snake hits the edge of the board or its own body.
 
 ![Alt Text](original.png)
+
+How to Run the Game:
+
+Download project files from this repository.
+Open the index.html file in a web browser.
 
 Technologies:
 
